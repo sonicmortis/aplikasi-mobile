@@ -67,7 +67,7 @@ class LaundryService {
 }
 
 void main() {
-  print('CONTOH APLIKASI MINI LAUNDRY');
+  print('APLIKASI MINI LAUNDRY');
   print('');
 
   var laundryList = [
@@ -82,3 +82,4 @@ void main() {
     laundry.displayInvoice();
   }
 }
+
